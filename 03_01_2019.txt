@@ -1,0 +1,28 @@
+document.onkeyup = function(event) {
+userText.textContent = event.key;
+}
+
+var userText = document.getElementById("user-text");
+
+array rock, paper, scissors
+Loop until user pushes q
+count wins
+count losses
+count ties
+
+ does the user input = rps?
+   get random 0-2
+   if user input != array[ random ] first char
+      if user input = r and array random = s  ||
+         user input = s and array random = p  ||
+         user input = p and array random = r {
+          wins++
+       }
+       else {
+          losses++
+       }
+    } else {
+       ties++
+    }
+
+Math.random() - generates a number between 0 and almost 1

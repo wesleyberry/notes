@@ -1,0 +1,5 @@
+git stash - creates space for changes
+git stash pop - will merge changes
+
+use at least 16px for font-size
+<a><span class=" fa fa-envelope"></span> Learn more</a>

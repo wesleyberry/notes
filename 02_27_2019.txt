@@ -1,0 +1,26 @@
+class="container"
+class="row"
+class="col-size-screen-10"
+class="col-size-screen-2"
+
+specific syntax for columns:
+	xs <576px	Phones
+	sm >=576px	Phones
+	md >=768px	Tablets
+	lg >=992px	Desktops
+	xl >=1200px
+
+.row>(.col-md-2>lorem)*6 (hit tab)
+
+Larger -> Smaller (computer)
+	max-width
+	sizes decrease
+
+Smaller -> Larger (phone)
+	min-width
+	sizes increase
+	best for class
+
+@media screen and (max-width: 768px;)	{
+
+}

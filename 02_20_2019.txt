@@ -1,0 +1,25 @@
+CSS
+
+Syntax
+	selector {property: value;}
+*Can only have one id, but multiple tags can use a single class.*
+
+remember to select font from drop down in CSS.
+
+../style.css
+
+width and height will adjust content
+padding will have background-color
+border
+margin keeps space around border (margin, if 4 values (T, R, B, L))
+
+554, 569
+
+Row
+	three columns
+
+<div class="container">
+	<div id="first"></div>	//have to make each 33%
+	<div id="second"></div>
+	<div id="third"></div>
+</div>

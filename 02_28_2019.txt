@@ -1,0 +1,22 @@
+var someVariable;		initiliatization
+someVariable = "Something";	assignment
+someVariable = "Something else";
+someVariable = 2;
+someVariable = false;
+
+console.log
+alert
+confirm - will return a boolean
+prompt - can be null
+document.write - prints to the page
+
+Arrays
+	zooAnimals[zooAnimals.length-1];
+	restuarants.push("Chinos Banditos");
+
+Loops
+	While
+	For
+	for(var i = 0; i < zooAnimals.length; i++) {
+        console.log(zooAnimals[i]);
+      	}

@@ -1,0 +1,89 @@
+2/19/2019
+change directories - cd
+cd code
+    looks for a directory called code
+    enter it if available
+
+cd ..
+    move up a directory
+cd ~ 
+    home directory
+cd - 
+    takes me to the previous folder
+
+pwd - where am i?
+to make a new directory - mkdir name_of_the_folder
+mkdir my stuff
+touch README.txt
+    creates txt file
+rm
+    removes a file
+rm -r
+    removes a folder
+ls
+    shows what is in the directory
+mv 
+    moves a file ex mv three.html my_folder
+Front end-my computer
+back end-server
+
+HTML 
+_blank
+    opens in another tab
+every html requires html, head, body
+    used h1, strong, a (anchor) ex: a href=""
+    br 
+
+Git
+git clone - copies an entire repo
+git add - adds a file for inclusion in Git
+git commit - notes a change to the local repo
+git push - uploads changes 
+git pull - downloads changes
+
+git commit -m 
+Git changes
+File Level
+    new files
+    renamed files
+    deleted files
+Line Level
+    new line +
+    modified line 
+    deleed line -
+Git clone <repo url>
+
+New File
+add line 1
+add line 2
+add line 3
+
+untracked file
+.gitignore
+	.env
+	.DS_Store (for Mac)
+	node_modules
+
+git add index.css
+git add index.js
+untracked area
+
+staging
+	index.css
+	index.js
+
+git commit -m "added css and js files"
+
+commit #1
+commit #2
+commit #3
+	commit #4
+	commit #5
+
+git clone
+do work
+git add .
+get commit ready to go
+git commit -m "I did my work"
+git pull 
+git push

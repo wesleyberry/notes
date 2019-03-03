@@ -1,0 +1,23 @@
+relative - relation of elements to one another
+absolute - relation of elements to parent element
+fixed - relation of elements to the page
+
+Do I need this for all elements?
+	Fonts
+	Universal Colors
+There is only one of these:
+	use an ID
+I don't know how many there are going to be, or will it be more than 2?
+	use a class
+
+	.aside-portfolio
+
+Does the order matter for including CSS? 
+	Yes; the last css file will be applied.
+What does it do?
+Why do we use a CSS reset?
+	to cross-check between browsers
+Where should it be?
+	in the head and first of the css files
+
+*Always create an index.html*
